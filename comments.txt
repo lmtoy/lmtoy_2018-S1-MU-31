@@ -1,2 +1,3 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
-#123456    QAFAIL     # ...
+92634   detected; 6 bad beams
+92825   no detection; 10 bad beams
